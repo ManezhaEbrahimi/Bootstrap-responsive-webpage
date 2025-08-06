@@ -1,0 +1,13 @@
+.hero {
+    background: linear-gradient(90deg, #e3f2fd, #bbdefb);
+    padding: 60px 20px;
+}
+.hero-img {
+    max-width: 100%;
+    height: auto;
+}
+footer{
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
